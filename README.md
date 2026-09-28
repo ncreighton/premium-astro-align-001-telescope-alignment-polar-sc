@@ -1,0 +1,2 @@
+# premium-astro-align-001-telescope-alignment-polar-sc
+Stop wasting clear nights guessing your polar alignment. The Telescope Alignment &amp; Polar Scope Craft Lab transforms your Notion workspace into a precision instrument for documenting, analyzing, and perfecting your alignment process.  This template eliminates the guesswork from polar alignment by providing a structured, repeatable system. Instead of
